@@ -4,4 +4,4 @@ Presente sapien massa, convallis a pellentesque nec, egestas non nisi. Proin ege
 
 I'm working on this and someone just interrupted me. They need help. I'll save this and come back. See you in a bit!
 
-The toothbrush can speak seven different languages.
+The toothbrush can speak six different languages.
